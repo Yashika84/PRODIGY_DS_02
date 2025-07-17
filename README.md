@@ -36,12 +36,15 @@ Through this task, I gained hands-on experience in:
 - Most passengers boarded from Southampton.
 
 # Summary
-- This survival analysis reveals that survival on the Titanic was not random or purely based on chance—it was deeply affected by social structure and human decision-making. --The data highlights:
--1.The influence of gender roles
--2.The impact of economic class
--3.The role of age-based prioritization
-  4.And how these factors interacted to determine life-or-death outcomes
-
+- This survival analysis reveals that survival on the Titanic was not random or purely based on chance—it was deeply affected by social structure and human decision-making. -The data highlights:
+1. **The influence of gender roles**  
+   Women and children were prioritized during evacuation, leading to higher survival rates among them.
+2. **The impact of economic class**  
+   First-class passengers had better access to lifeboats, significantly influencing survival chances.
+3. **The role of age-based prioritization**  
+   Younger passengers, especially children, were often given priority in rescue operations.
+4. **The interaction of these factors**  
+Gender, class, and age collectively determined who had a better chance of survival during the Titanic disaster.
 Through this task i got to understand the real-world importance of data analysis in understanding human behavior, societal norms, and historical events and hence helped me to enhance my data visualization and understanding data more in dept.
 
 Thank you for reviewing my work.
