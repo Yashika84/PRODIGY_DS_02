@@ -3,7 +3,7 @@
 
 This repository contains my submission for Task 02 of the Data Science Internship at Prodigy Infotech.
 
-he goal of this task is to perform Exploratory Data Analysis (EDA) on the Titanic dataset and create visualizations to understand survival patterns among passengers.  
+The goal of this task is to perform Exploratory Data Analysis (EDA) on the Titanic dataset and create visualizations to understand survival patterns among passengers.  
 In this task, I explored the dataset using Python libraries and created various visualizations such as bar charts, count plots to examine how different factors like gender, age, class, and Embarkment influenced survival.
 
 Through this task, I gained hands-on experience in:
@@ -49,5 +49,5 @@ Thank you for reviewing my work.
 # Contact
 For any inquiries or feedback regarding this project, please contact:
 
-www.linkedin.com/in/yashika-vashist-810394284 (Linkedin)
-Email: yashikavashist543@gmail.com
+- www.linkedin.com/in/yashika-vashist-810394284 (Linkedin)
+- Email: yashikavashist543@gmail.com
