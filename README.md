@@ -25,7 +25,7 @@ Through this task, I gained hands-on experience in:
 - Removed unnecessary columns like cabin.
 - Filled missing `Age` values with mean ( because age is a continous numerical value ).
 - Filled missing `Embarked` values with mode ( because embarked is a categorical values ).
-- Converted `Age` into  age categoriesor better analysis.
+- Converted `Age` into  age categories for better analysis.
 
  # Key Insights
 
@@ -37,10 +37,10 @@ Through this task, I gained hands-on experience in:
 
 # Summary
 - This survival analysis reveals that survival on the Titanic was not random or purely based on chance—it was deeply affected by social structure and human decision-making. --The data highlights:
-1.The influence of gender roles
-2.The impact of economic class
-3.The role of age-based prioritization
-4.And how these factors interacted to determine life-or-death outcomes
+-1.The influence of gender roles
+-2.The impact of economic class
+-3.The role of age-based prioritization
+  4.And how these factors interacted to determine life-or-death outcomes
 
 Through this task i got to understand the real-world importance of data analysis in understanding human behavior, societal norms, and historical events and hence helped me to enhance my data visualization and understanding data more in dept.
 
