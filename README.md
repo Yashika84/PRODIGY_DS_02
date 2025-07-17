@@ -45,6 +45,7 @@ Through this task, I gained hands-on experience in:
    Younger passengers, especially children, were often given priority in rescue operations.
 4. **The interaction of these factors**  
 Gender, class, and age collectively determined who had a better chance of survival during the Titanic disaster.
+
 Through this task i got to understand the real-world importance of data analysis in understanding human behavior, societal norms, and historical events and hence helped me to enhance my data visualization and understanding data more in dept.
 
 Thank you for reviewing my work.
